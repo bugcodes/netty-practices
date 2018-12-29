@@ -1,0 +1,5 @@
+server:
+  port: ${SERVER_PORT:8080}
+  servlet:
+    context-path: /netty-practices
+    application-display-name: netty-practices

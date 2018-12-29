@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/netty-practices.iml" filepath="$PROJECT_DIR$/.idea/modules/netty-practices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/netty-practices_main.iml" filepath="$PROJECT_DIR$/.idea/modules/netty-practices_main.iml" group="netty-practices" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/netty-practices_test.iml" filepath="$PROJECT_DIR$/.idea/modules/netty-practices_test.iml" group="netty-practices" />
+    </modules>
+  </component>
+</project>
